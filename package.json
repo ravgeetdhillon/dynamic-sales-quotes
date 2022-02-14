@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-sales-quote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "hellosign-sdk": "^2.0.0",
+    "minimist": "^1.2.5",
+    "uuid": "^8.3.2"
+  }
+}
